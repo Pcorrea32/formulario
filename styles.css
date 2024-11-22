@@ -45,7 +45,7 @@ body {
   }
   
   input, textarea {
-    background-color: #0a0a23;
+    background-color: #0ece5e;
     border: 1px solid #5252e6;
     color: #ffffff;
   }
@@ -62,7 +62,7 @@ body {
     margin: 1em auto;
     height: 2em;
     font-size: 1.1rem;
-    background-color: #3b3b4f;
+    background-color: #4f4a3b;
     border-color: rgb(241, 143, 143);
     min-width: 300px;
   }
